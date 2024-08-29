@@ -7,3 +7,4 @@ spring:
       username: admin
       password: password
       authentication-database: admin
+      auto-index-creation: true
